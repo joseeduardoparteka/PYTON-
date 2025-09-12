@@ -1,0 +1,257 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyM89As7hgPGnI4okMgOrQ1v",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/joseeduardoparteka/PYTON-/blob/main/AULA%20PYTHON\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "byB8kyngnLS5"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "5s_70hSUhLmP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "AhbPyLgMhMYc"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "kRsRASpDhMu3"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "G8ihNHGDhOBY"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "kwDUenTOhOTz"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "B5YG_gKOhPxc"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "3PVn8QIrhRp8"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "aula 1\n"
+      ],
+      "metadata": {
+        "id": "uAQ3aTdNng-_"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(\"I competição de programação dá Start\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "0Kck9gognlc6",
+        "outputId": "c7f1ae2e-a332-4de0-b8b5-80dfe5625908"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "I competição de programação dá Start\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "ano = \"VI\""
+      ],
+      "metadata": {
+        "id": "0djh-rPQoni9"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(ano, \"competição de programação da Start\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "8SU744dHos57",
+        "outputId": "e257147c-7ce6-473c-96b2-df6c2da6c3a7"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "VI competição de programação da Start\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "AULA 02"
+      ],
+      "metadata": {
+        "id": "k62xmP-OhiEP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "livro_ficcao = 8\n",
+        "livro_n_ficcao = 10\n",
+        "livro_infantil = 6\n",
+        "pontos_rodrigo = livro_ficcao + livro_n_ficcao + livro_infantil\n",
+        "print(f\"Os pontos totais do Rodrigo são {pontos_rodrigo}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "9i5ZTeBxhnpI",
+        "outputId": "2d785bd6-4f06-4eb0-8409-d61715888dd9"
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Os pontos totais do Rodrigo são 24\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "livro_ficcao = 8\n",
+        "livro_n_ficcao = 10\n",
+        "livro_infantil = 6\n",
+        "pontos_Ana = 2*livro_ficcao + 5*livro_infantil\n",
+        "print(f\"Os pontos totais de Ana são {pontos_Ana}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "5B2mBm-_jfl1",
+        "outputId": "532f1e40-e442-4699-b608-3eccbcaa8b16"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Os pontos totais de Ana são 46\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "pontos_conjuntos = pontos_Ana + pontos_rodrigo\n",
+        "print(f\"Os pontos totais do Rodrigo + os pontos totais de Ana são {pontos_rodrigo + pontos_Ana}\")\n",
+        "pontos_carlos = 1*livro_ficcao + 4*livro_n_ficcao + 7*livro_infantil\n",
+        "print(f\"Os pontos totais do Rodrigo + os pontos de Ana + os pontos de Carlos são {pontos_rodrigo + pontos_Ana +pontos_carlos}\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Utgiv3s0kwUd",
+        "outputId": "dcb296a7-d4a1-4a31-b3ca-f1d0478b2a8d"
+      },
+      "execution_count": 5,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Os pontos totais do Rodrigo + os pontos totais de Ana são 70\n",
+            "Os pontos totais do Rodrigo + os pontos de Ana + os pontos de Carlos são 160\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
